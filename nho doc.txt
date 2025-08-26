@@ -1,0 +1,2 @@
+vô includes mà gắn cokie (File chạy qua cookie)
+trong config nhớ gắn mail mk 2fa để autologin
