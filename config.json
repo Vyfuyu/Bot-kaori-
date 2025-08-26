@@ -26,16 +26,16 @@
     "FACEBOOK_ADMIN": "fb.com/100083174347639",
     "ZALO_ADMIN": "0827051915",
     "ADMIN_NAME": "Chicken",
-    "BOTNAME": "🐣Egg🐣",
-    "PREFIX": "/",
+    "BOTNAME": "Kaori Waguri",
+    "PREFIX": "!",
     "ADMINBOT": [
-        "100083174347639",
-        "61571740333502",
-        "100073484044458",
-        "61573986054035"
+        "61573986054035",
+        "",
+        "",
+        ""
     ],
     "NDH": [
-        "100083174347639"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
