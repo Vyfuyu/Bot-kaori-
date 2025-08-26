@@ -116,7 +116,7 @@ module.exports.run = async function ({ api, event, args }) {
         return api.sendMessage(
           `❌ Thiếu GitHub Token!\n\n` +
           `Vui lòng thêm GITHUB_TOKEN vào config:\n` +
-          `global.config.GITHUB_TOKEN = "your_token_here"`,
+          `global.config.GITHUB_TOKEN = "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"`,
           threadID, messageID
         );
       }
